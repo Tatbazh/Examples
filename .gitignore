@@ -397,8 +397,3 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-
-./Ex002/bin/*
-./Ex002/obj/*
-./Ex001/bin/*
-./Ex001/obj/*
